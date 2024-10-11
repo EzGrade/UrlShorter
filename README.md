@@ -19,3 +19,5 @@
 <p>2. Run <code>pip install -r requirements.txt</code> to install the dependencies</p>
 <p>3. Run <code>python manage.py migrate</code> to migrate database</p>
 <p>4. Run <code>python manage.py runserver</code> to start the server</p>
+
+TEST
